@@ -184,7 +184,7 @@ header.transparente nav a {
 
 header nav a.activo,
 header nav a:hover {
-    color: #a97c50;
+    color: #319f82;
     font-weight: bold;
 }
 
@@ -208,7 +208,7 @@ header.transparente nav a:hover {
     width: 30px;
     height: 2px;
     margin: 6px;
-    background-color: #a97c50;
+    background-color: #16b29d;
     transition: 400ms all ease-in-out;
 }
 
@@ -443,7 +443,7 @@ header.transparente nav a:hover {
 
 .fila.parallax div p {
     font-size: 1.5rem;
-    color: #a97c50;
+    color: #1d9290;
     text-align: center;
 }
 
@@ -455,9 +455,9 @@ header.transparente nav a:hover {
 }
 
 .caja-nav a {
-    border: 1px solid #a97c50;
+    border: 1px solid hsla(175, 54%, 43%, 0.77);
     background-color: white;
-    color: #a97c50;
+    color: #29978c;
     font-size: 1rem;
     font-weight: normal;
     padding: 0.5em 1em;
@@ -467,7 +467,7 @@ header.transparente nav a:hover {
 }
 
 .caja-nav a:hover {
-    background-color: #a97c50;
+    background-color: #2b9880;
     color: white;
 }
 
@@ -495,7 +495,7 @@ form.contacto .fila {
 
 input {
     border: none;
-    border-bottom: 1.5px solid #a97c50;
+    border-bottom: 1.5px solid #2a9f78;
     font-size: 1rem;
     padding: 0.5em 1em;
     width: 100%;
@@ -503,7 +503,7 @@ input {
 
 input:focus {
     outline: none;
-    border-bottom: 1.5px solid #643e18;
+    border-bottom: 1.5px solid #186441;
 }
 
 input.usuario {
@@ -522,7 +522,7 @@ input.email {
 
 button {
     border: none;
-    background-color: #a97c50;
+    background-color: #50a993;
     color: white;
     font-size: 1rem;
     font-weight: normal;
@@ -533,7 +533,7 @@ button {
 }
 
 button:hover {
-    background-color: #81501e;
+    background-color: #1e815d;
 }
 
 input[type="checkbox"] {
@@ -554,7 +554,7 @@ input[type="checkbox"]:checked + label::before {
 /* Footer */
 
 footer {
-    background-color: #424242;
+    background-color: #1f8b87;
 }
 
 footer p {
@@ -577,7 +577,7 @@ footer a {
 }
 
 footer a:hover {
-    color: #704a24;
+    color: #077c78;
 }
 
 footer .copyright {
@@ -629,7 +629,7 @@ footer .copyright {
 }
 
 .card .footer-card a {
-    background-color: #a97c50;
+    background-color: #50a9a3;
     color: white;
     font-size: 0.8rem;
     border-radius: 0.3em;
@@ -639,7 +639,7 @@ footer .copyright {
 }
 
 .card .footer-card a:hover {
-    background-color: #664626;
+    background-color: #266656;
 }
 
 /* Ficha propiedad */
@@ -658,7 +658,7 @@ footer .copyright {
 
 .propiedad div:first-child h1 {
     font-size: 1.4rem;
-    color: #a97c50;
+    color:  #158280;
 }
 
 .propiedad div:first-child p img {
